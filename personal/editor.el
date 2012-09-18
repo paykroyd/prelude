@@ -1,0 +1,1 @@
+(setq cursor-type 'bar)
