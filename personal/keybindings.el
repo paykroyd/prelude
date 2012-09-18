@@ -4,3 +4,4 @@
 (global-set-key (kbd "s--") 'text-scale-decrease)
 (global-set-key (kbd "C-c SPC") 'ace-jump-mode)
 (global-set-key (kbd "C-]") 'pop-to-mark-command)
+(global-set-key (kbd "s-t") 'helm-prelude)
