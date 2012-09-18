@@ -11,3 +11,6 @@
 (add-to-list 'projectile-ignored-file-extensions "pyc")
 (add-to-list 'projectile-ignored-file-extensions "DS_Store")
 (add-to-list 'projectile-ignored-file-extensions "jar")
+
+;; stop that stupid beeping
+(setq ring-bell-function 'ignore)
